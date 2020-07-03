@@ -1,0 +1,13 @@
+30/06/2020 20:59:47 devpinoyLogger Config File Loaded
+30/06/2020 20:59:47 devpinoyLogger OR File Loaded
+30/06/2020 20:59:47 devpinoyLogger Chrome Launched
+30/06/2020 20:59:53 devpinoyLogger Navigated to: https://www.zoho.com/
+30/06/2020 20:59:57 devpinoyLogger Clicking on Element: loginLink_CSS
+30/06/2020 20:59:57 devpinoyLogger Typing in Element: loginIdTxtBx_CSS with value as: 24x7work08@gmail.com
+30/06/2020 20:59:57 devpinoyLogger Clicking on Element: nextBtn_CSS
+30/06/2020 20:59:57 devpinoyLogger Typing in Element: passwordTxtBx_CSS with value as: Tekion@123
+30/06/2020 20:59:58 devpinoyLogger Clicking on Element: nextBtn_CSS
+30/06/2020 21:00:04 devpinoyLogger Clicking on Element: goToAccountTab_CSS
+30/06/2020 21:00:05 devpinoyLogger Clicking on Element: createAccIcon_CSS
+30/06/2020 21:00:06 devpinoyLogger Clicking on Element: subMenuAccLink_CSS
+30/06/2020 21:00:06 devpinoyLogger Typing in Element: accountNameTxt_CSS with value as: Sheldon Cooper

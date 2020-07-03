@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="12394" started-at="2020-06-30T20:43:23 IST" finished-at="2020-06-30T20:43:35 IST">
+    <groups>
+    </groups>
+    <test name="Zoho App Test" duration-ms="12394" started-at="2020-06-30T20:43:23 IST" finished-at="2020-06-30T20:43:35 IST">
+      <class name="com.practice.testcases.CreateAccountTest">
+        <test-method status="PASS" signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.practice.testcases.CreateAccountTest@515f4131]" name="createAccountTest" duration-ms="9646" started-at="2020-06-30T20:43:26 IST" data-provider="dp" finished-at="2020-06-30T20:43:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{accountName=Sheldon Cooper}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+      </class> <!-- com.practice.testcases.CreateAccountTest -->
+      <class name="com.practice.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.practice.testcases.LoginTest@3c49fab6]" name="loginTest" duration-ms="2247" started-at="2020-06-30T20:43:23 IST" data-provider="dp" finished-at="2020-06-30T20:43:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{recRunMode=Y, password=Tekion@123, userName=24x7work08@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.practice.testcases.LoginTest@3c49fab6]" name="tearDown" is-config="true" duration-ms="797" started-at="2020-06-30T20:43:35 IST" finished-at="2020-06-30T20:43:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.practice.testcases.LoginTest -->
+    </test> <!-- Zoho App Test -->
+  </suite> <!-- Page Object Model -->
+</testng-results>
