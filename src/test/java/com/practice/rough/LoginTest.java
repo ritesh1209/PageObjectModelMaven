@@ -10,6 +10,7 @@ public class LoginTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		// rough package
 		HomePage home = new HomePage();
 		
 		LoginPage login = home.goToLogin();
