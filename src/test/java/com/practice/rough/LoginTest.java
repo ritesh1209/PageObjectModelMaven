@@ -10,7 +10,7 @@ public class LoginTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
-		
+		// Using eGit Plugin
 		HomePage home = new HomePage();
 		
 		LoginPage login = home.goToLogin();

@@ -1,13 +1,13 @@
-03/07/2020 21:39:27 devpinoyLogger Config File Loaded
-03/07/2020 21:39:27 devpinoyLogger OR File Loaded
-03/07/2020 21:39:27 devpinoyLogger Chrome Launched
-03/07/2020 21:39:32 devpinoyLogger Navigated to: https://www.zoho.com/
-03/07/2020 21:39:36 devpinoyLogger Clicking on Element: loginLink_CSS
-03/07/2020 21:39:36 devpinoyLogger Typing in Element: loginIdTxtBx_CSS with value as: 24x7work08@gmail.com
-03/07/2020 21:39:36 devpinoyLogger Clicking on Element: nextBtn_CSS
-03/07/2020 21:39:36 devpinoyLogger Typing in Element: passwordTxtBx_CSS with value as: Tekion@123
-03/07/2020 21:39:37 devpinoyLogger Clicking on Element: nextBtn_CSS
-03/07/2020 21:39:44 devpinoyLogger Clicking on Element: goToAccountTab_CSS
-03/07/2020 21:39:45 devpinoyLogger Clicking on Element: createAccIcon_CSS
-03/07/2020 21:39:46 devpinoyLogger Clicking on Element: subMenuAccLink_CSS
-03/07/2020 21:39:47 devpinoyLogger Typing in Element: accountNameTxt_CSS with value as: Sheldon Cooper
+05/07/2020 18:42:49 devpinoyLogger Config File Loaded
+05/07/2020 18:42:49 devpinoyLogger OR File Loaded
+05/07/2020 18:42:49 devpinoyLogger Chrome Launched
+05/07/2020 18:42:54 devpinoyLogger Navigated to: https://www.zoho.com/
+05/07/2020 18:42:57 devpinoyLogger Clicking on Element: loginLink_CSS
+05/07/2020 18:42:58 devpinoyLogger Typing in Element: loginIdTxtBx_CSS with value as: 24x7work08@gmail.com
+05/07/2020 18:42:58 devpinoyLogger Clicking on Element: nextBtn_CSS
+05/07/2020 18:42:58 devpinoyLogger Typing in Element: passwordTxtBx_CSS with value as: Tekion@123
+05/07/2020 18:42:59 devpinoyLogger Clicking on Element: nextBtn_CSS
+05/07/2020 18:43:05 devpinoyLogger Clicking on Element: goToAccountTab_CSS
+05/07/2020 18:43:06 devpinoyLogger Clicking on Element: createAccIcon_CSS
+05/07/2020 18:43:07 devpinoyLogger Clicking on Element: subMenuAccLink_CSS
+05/07/2020 18:43:07 devpinoyLogger Typing in Element: accountNameTxt_CSS with value as: Sheldon Cooper
